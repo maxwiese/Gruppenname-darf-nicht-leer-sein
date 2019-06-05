@@ -2,7 +2,7 @@
 enable
 configure terminal
 
-hostname Router
+hostname MartinRouterKing
 
 ip domain-name gruppe4.de
 crypto key generate rsa
@@ -52,4 +52,7 @@ no shutdown
 exit
 
 ip route 0.0.0.0 0.0.0.0 192.168.10.254
+
+
+
 
