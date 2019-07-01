@@ -2,7 +2,7 @@ enable
 
 configure terminal
 
-hostname (Der_)Switch(er)
+hostname Der_Switcher
 
 ip domain-name gruppe4.de
 crypto key generate rsa
